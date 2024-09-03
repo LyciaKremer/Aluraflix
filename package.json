@@ -1,0 +1,23 @@
+{
+  "name": "aluraflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/css/style.sass src/css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyciaKremer/Aluraflix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyciaKremer/Aluraflix/issues"
+  },
+  "homepage": "https://github.com/LyciaKremer/Aluraflix#readme",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
